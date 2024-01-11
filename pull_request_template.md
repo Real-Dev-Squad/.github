@@ -1,4 +1,4 @@
-<!-- Date Here -->
+<!-- Date Here in dd mmm yyyy-->
 Date: 
 <!--Developer Name Here-->
 Developer Name: 
@@ -69,4 +69,4 @@ Developer Name:
 
 ## Additional Notes
 
-<!--Any additional notes or explanations for reviewers-->
+<!--Any additional notes, considerations or explanations for reviewers-->
