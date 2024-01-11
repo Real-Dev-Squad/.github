@@ -1,67 +1,72 @@
-Date: `change date here`
+<!-- Date Here in dd mmm yyyy-->
+Date: 
+<!--Developer Name Here-->
+Developer Name: 
 
-Developer Name: `developer name here`
-
-----
+---
 
 ## Issue Ticket Number
-
--   Add the relevant issue ticket number here (e.g., Closes #<issue_number>).
+<!--Issue ticket this PR closes-->
 
 ## Description
 
-Provide a concise description of the changes made in this PR.
+<!--Description of the changes made in this PR-->
 
-**Documentation Updated?**
+### Documentation Updated?
 
--   [ ] Yes
--   [x] No
+- [ ] Yes
+- [ ] No
 
-_If your feature adds a new API, then documentation related to the feature like API-Contracts, and Data-models  must be updated._
+<!--Additional notes about documentation update if applicable-->
 
-**Breaking Changes**
+### Under Feature Flag
 
--   [ ] Yes
--   [x] No
+- [ ] Yes
+- [ ] No
 
-_If your feature introduces breaking changes or if something is missing, please mention the related issue tickets._
+<!--Indicate if changes are under a feature flag-->
 
-**Development Tested?**
+### Database Changes
 
--   [x] Yes
--   [ ] No
+- [ ] Yes
+- [ ] No
 
-_Confirm whether the changes have been tested locally during development._
+<!--Notes on any database changes-->
 
-**Tested in Staging?**
+### Breaking Changes
 
--   [x] Yes
--   [ ] No
+- [ ] Yes
+- [ ] No
 
-_Indicate whether the changes have been tested in the staging environment._
+<!--Notes on breaking changes or related issue tickets if applicable-->
 
-**Under Feature Flag**
+### Development Tested?
 
--   [x] Yes
--   [ ] No
+- [ ] Yes
+- [ ] No
 
-_Specify if the changes are currently under a feature flag._
+<!--Confirmation of local testing during development-->
 
-**Database Changes**
+## Screenshots
+<details>
+<summary>Screenshot 1</summary>
 
--   [ ] Yes
--   [x] No
+<!-- Attach your screenshots here👇-->
 
-_Indicate whether the changes include modifications to the database._
+</details>
 
-### Screenshots
-
-Attach any relevant screenshots, such as test coverage reports, before and after images, or other visual aids.
+<!--Attach or link to relevant screenshots or visual aids-->
 
 ## Test Coverage
+<details>
+<summary>Screenshot 1</summary>
 
-Provide information on the test coverage for the changes made in this PR. Include details on the types of tests conducted and their outcomes.
+<!-- Attach your screenshots here👇-->
+
+</details>
+
+<!--Attach Details on test coverage and outcomes-->
 
 ## Additional Notes
 
-Include any additional notes, considerations, or explanations that might be helpful for reviewers.
+<!--Any additional notes, considerations or explanations for reviewers-->
